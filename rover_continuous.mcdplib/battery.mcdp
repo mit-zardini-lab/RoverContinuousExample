@@ -4,5 +4,6 @@ dp {
   requires mass_battery [kg]
   requires total_cost [USD]
 
+  # Catalogue expressed as a yaml file. It's some discrete samples of a continuous function.
   implemented-by yaml resource("battery_catalogues/battery_catalogue_1.yaml")
 }

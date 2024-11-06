@@ -1,0 +1,25 @@
+{
+    "styles": {
+        "Regular-No-IF_OWN_ICON_EXISTS": {
+            "nodes": {
+                "": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "edges": {}
+        },
+        "Expanded-No-IF_OWN_ICON_EXISTS": {
+            "nodes": {},
+            "edges": {}
+        },
+        "Exploded-No-IF_OWN_ICON_EXISTS": {
+            "nodes": {},
+            "edges": {}
+        },
+        "PreProcessed-No-IF_OWN_ICON_EXISTS": {
+            "nodes": {},
+            "edges": {}
+        }
+    }
+}

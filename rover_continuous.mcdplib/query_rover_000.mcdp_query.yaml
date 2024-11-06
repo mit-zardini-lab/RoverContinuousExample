@@ -1,0 +1,10 @@
+title: Query query_rover_000
+description: ''
+model: '`rover'
+query:
+  query_type: FixFunMinRes
+  min_f:
+    extra_payload: 1 kg
+    velocity: 1 m/s
+  max_r: {}
+  optimize_for: []
